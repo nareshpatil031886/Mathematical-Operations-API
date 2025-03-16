@@ -7,10 +7,6 @@ A Node.js application that provides RESTful APIs for various mathematical operat
 - Addition of two numbers
 - Factorial calculation
 - Fibonacci sequence generation
-- Request logging
-- Error handling
-- Data persistence using SQLite
-- Unit tests
 
 ## API Endpoints
 
