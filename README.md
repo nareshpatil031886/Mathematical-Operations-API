@@ -67,30 +67,6 @@ npm start
 npm test
 ```
 
-## Project Structure
-
-```
-src/
-├── __tests__/        # Test files
-├── controllers/      # Request handlers
-├── middleware/       # Custom middleware
-├── routes/          # API routes
-├── services/        # Business logic
-├── app.ts           # Express app setup
-└── server.ts        # Server entry point
-```
-
-## Error Handling
-
-The API uses custom error handling middleware that returns appropriate HTTP status codes and error messages.
-
-## Database
-
-Uses SQLite with Prisma ORM. The database stores operation history with:
-- Operation type
-- Input values
-- Result
-- Timestamps 
 
 
 ## **👨‍💻 Author**  
